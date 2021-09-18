@@ -1,0 +1,39 @@
+.account {
+    position: fixed;
+    width: 25%;
+    height: 100vh;
+    background: white;
+    top: 0px;
+    right:0px;
+    z-index: 10;
+}
+.cross {
+    opacity:0.4;
+}
+/* .signin {
+    border: 2px solid black;
+} */
+
+.left-blog{
+    /* background-color: #2c3e8f; */
+    width: 50%;
+
+}
+
+.left-blog > div {
+    font-size: 30px;
+    color: #f89909;
+    letter-spacing: 2px;
+    padding: 30px;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.image{
+    width: 400px;
+    height: auto;
+}
+
+.right-blog{
+    width: 50%;
+}
