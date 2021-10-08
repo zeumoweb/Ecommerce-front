@@ -77,7 +77,7 @@ const NavBar = (props) => {
             </span>
           </div>
           <div className={`${classes.country} ml-4 cursor-pointer z-1`}>
-            <div className="fflag fflag-US ff-round ff-lg"></div>
+            <div className="fflag fflag-CM ff-round ff-lg"></div>
             <span className="">
               <svg
                 xmlns="http://www.w3.org/2000/svg"

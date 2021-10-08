@@ -18,6 +18,7 @@ module.exports = {
       modal: "#808080",
       dark: "#090909",
       orange: "#FDA521",
+      red: "#FF0000 ",
     },
   },
   variants: {

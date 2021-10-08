@@ -6,4 +6,5 @@
     height: 100vh;
     background-color: #808080;
     opacity:0.6;
+    z-index: 10;
 }

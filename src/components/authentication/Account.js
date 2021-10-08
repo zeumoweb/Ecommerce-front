@@ -19,7 +19,7 @@ const Account = (props) => {
           <Link
             className={`${classes.signin} flex items-center flex mt-40 ml-8 font-bold hover:opacity-50 cursor-pointer`}
             onClick={() => props.setIsOpen(false)}
-            to="/signin"
+            to="/user"
           >
             <FaSignInAlt className="mr-3" />
             <span>Sign In</span>
